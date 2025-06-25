@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! I'm Tabby(Kim Yunhee).</h1>
+<h1 align="center">Hi there! I'm Tabby.</h1>
 
 <h3 align="left">Languages and Tools:</h3>
 
